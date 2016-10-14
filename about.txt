@@ -1,0 +1,7 @@
+This file is for storing access records for anything, I will be using this internally at our company so that we can store and easily
+sort through them. 
+
+Stack: 
+Node
+Express
+RethinkDB 
